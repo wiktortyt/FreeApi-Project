@@ -1,0 +1,15 @@
+#mainTable {
+  border: 1px solid black;
+}
+
+#mainTable td {
+  width: "5%";
+  border: 1px solid black;
+}
+
+.upperThumbnail {
+  z-index: 1;
+  display: none;
+  overflow: auto;
+  position: absolute;
+}
